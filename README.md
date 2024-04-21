@@ -6,6 +6,7 @@ After obtaining the necessary data, I conducted the cleansing process using SQL.
 
 Step 3: Data Visualization in Tableau
 The cleansed data was imported into Tableau for creating visual representations. Through various charts, diagrams, and other visual elements, I analyzed trends and relationships between infections, vaccinations, and deaths.
+https://public.tableau.com/views/Dashboard-COVID-19_17132008587120/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 Step 4: Analysis and Conclusions
 Based on the data visualization, I conducted an analysis and drew some conclusions regarding the dynamics of infections, vaccination effectiveness, and other important aspects. In this step, I identified key trends and patterns that helped make informed conclusions.
