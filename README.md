@@ -1,8 +1,8 @@
 ![image](https://github.com/osemenets21/COVID-19-Project/assets/95434794/bac9561b-dc18-4a9f-a6c1-286de50b3109)
 
 Step 1: Data Collection
-https://ourworldindata.org/coronavirus
 To start my analytical work, I turned to reliable data sources to obtain information on virus infections, vaccinations, and deaths. I used data from official medical organization websites and available open datasets.
+https://ourworldindata.org/coronavirus
 
 Step 2: Data Cleansing Using SQL
 After obtaining the necessary data, I conducted the cleansing process using SQL. This step helped remove unnecessary or incorrect information, as well as merge different data sources for further analysis.
