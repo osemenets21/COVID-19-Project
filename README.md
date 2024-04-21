@@ -11,10 +11,30 @@ To start my analytical work, I turned to reliable data sources to obtain informa
 ### Step 2: Data Cleansing Using SQL
 After obtaining the necessary data, I conducted the cleansing process using SQL. This step helped remove unnecessary or incorrect information, as well as merge different data sources for further analysis.
 
+### Looking at Total Cases vs Population in Ukraine
+![image](https://github.com/osemenets21/COVID-19-Project/assets/95434794/1081552a-775a-4cc8-a5c1-00f18c47173e)
+
+### Shows likelihood of dying if you contract COVID-19 in your country
+![image](https://github.com/osemenets21/COVID-19-Project/assets/95434794/b976570d-7c19-4da7-9138-b6531ec41888)
+
+### Global numbers of cases across the world by day
+![image](https://github.com/osemenets21/COVID-19-Project/assets/95434794/52ac5b37-3b30-4d38-91bc-997453a3c5d8)
+
+### Showing continents with the highest death count per population
+![image](https://github.com/osemenets21/COVID-19-Project/assets/95434794/96b1fe07-6a9b-440b-b8ec-925ddccf1483)
+
+### Showing countries with Highest Deadth Count per Population
+![image](https://github.com/osemenets21/COVID-19-Project/assets/95434794/1033082b-00d0-4a60-b511-abb04bd9545e)
+
+### Looking at countries with Highest Infection Rate compared to Population
+![image](https://github.com/osemenets21/COVID-19-Project/assets/95434794/abfa9417-bad0-4191-8aab-951e2407cb7a)
+
+
 ### Step 3: Data Visualization in Tableau
 The cleansed data was imported into Tableau for creating visual representations. Through various charts, diagrams, and other visual elements, I analyzed trends and relationships between infections, vaccinations, and deaths.
+For the linear diagram, I used data from 4 countries that interested me - Ukraine, Poland, France and Germany.
 [Tableau](https://public.tableau.com/views/Dashboard-COVID-19_17132008587120/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
+![image](https://github.com/osemenets21/COVID-19-Project/assets/95434794/3a1d1fff-d815-4ae1-9f93-43d553310ac6)
 
 ### Step 4: Analysis and Conclusions
 Based on the data visualization, I conducted an analysis and drew some conclusions regarding the dynamics of infections, vaccination effectiveness, and other important aspects. In this step, I identified key trends and patterns that helped make informed conclusions.
