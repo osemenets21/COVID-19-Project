@@ -1,3 +1,5 @@
+![image](https://github.com/osemenets21/COVID-19-Project/assets/95434794/bac9561b-dc18-4a9f-a6c1-286de50b3109)
+
 Step 1: Data Collection
 To start my analytical work, I turned to reliable data sources to obtain information on virus infections, vaccinations, and deaths. I used data from official medical organization websites and available open datasets.
 
